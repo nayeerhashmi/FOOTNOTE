@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">FOOTNOTE magazine logo</title>
+<desc id="desc">FOOTNOTE editorial wordmark with a fine rule and small star motif.</desc>
+<rect width="1200" height="300" fill="none"/>
+<text x="600" y="194" text-anchor="middle" fill="#171714" font-family="Bodoni 72, Didot, 'Bodoni MT', 'Times New Roman', serif" font-size="202" font-weight="600" letter-spacing="-13">FOOTNOTE</text>
+<path d="M75 220 H1125" fill="none" stroke="#171714" stroke-width="2"/>
+<path d="M600 218 L608 235 L600 252 L592 235 Z" fill="#171714"/>
+<text x="78" y="275" fill="#171714" font-family="Arial, sans-serif" font-size="20" letter-spacing="7">A MAGAZINE FOR PEOPLE, PLACES AND IDEAS</text>
+<text x="1122" y="275" text-anchor="end" fill="#171714" font-family="Arial, sans-serif" font-size="20" letter-spacing="7">JAMMU &amp; KASHMIR</text>
+</svg>
